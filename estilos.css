@@ -1,0 +1,46 @@
+
+*{
+    
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    width: 100%;
+    background-color: rgb(153, 194, 196);
+    padding: 15px;
+}
+.productos{
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+    background: linear-gradient( rgb(165, 231, 233));
+    height: 100vh;
+    padding: 20px;
+}
+
+.div-productos{
+    width: 100%;
+    max-width: 131.06;
+}
+h4{
+    background-color: cadetblue;
+    font-size: 30px;
+    color: #fff;
+}
+table{
+    text-align: center;
+    font-size: 15px;
+    background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    background-color: cadetblue;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+}
